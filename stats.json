@@ -1,9 +1,9 @@
 {
-  "totalSolved": 1,
-  "easySolved": 0,
+  "totalSolved": 2,
+  "easySolved": 1,
   "mediumSolved": 1,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-09T08:20:34.286Z",
+  "lastUpdated": "2026-10-09T08:41:56.864Z",
   "problems": {
     "0179": {
       "slug": "largest-number",
@@ -14,6 +14,16 @@
       "memory": "N/A",
       "path": "0179-largest-number/solution.java",
       "solvedAt": "2026-10-09T08:20:34.286Z"
+    },
+    "0383": {
+      "slug": "ransom-note",
+      "title": "Ransom Note",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "1 ms",
+      "memory": "46.3 MB",
+      "path": "0383-ransom-note/solution.java",
+      "solvedAt": "2026-10-09T08:41:56.864Z"
     }
   }
 }
