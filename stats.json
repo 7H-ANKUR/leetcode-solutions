@@ -3,17 +3,17 @@
   "easySolved": 2,
   "mediumSolved": 2,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-09T09:58:07.070Z",
+  "lastUpdated": "2026-10-09T10:01:50.881Z",
   "problems": {
     "0179": {
       "slug": "largest-number",
       "title": "Largest Number",
       "difficulty": "Medium",
       "language": "java",
-      "runtime": null,
-      "memory": null,
+      "runtime": "6 ms",
+      "memory": "45.1 MB",
       "path": "0179-largest-number/solution.java",
-      "solvedAt": "2026-10-09T09:58:07.069Z"
+      "solvedAt": "2026-10-09T10:01:50.881Z"
     },
     "0383": {
       "slug": "ransom-note",
