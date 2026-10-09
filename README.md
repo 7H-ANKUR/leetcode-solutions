@@ -7,4 +7,3 @@ _Last updated: 2026-10-09T08:41:56.864Z_
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
 | 179 | [Largest Number](0179-largest-number/README.md) | Medium | java | N/A | N/A |
-| 383 | [Ransom Note](0383-ransom-note/README.md) | Easy | java | 1 ms | 46.3 MB |
