@@ -1,9 +1,9 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "easySolved": 2,
-  "mediumSolved": 1,
+  "mediumSolved": 2,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-09T09:44:43.768Z",
+  "lastUpdated": "2026-10-09T09:47:04.321Z",
   "problems": {
     "0179": {
       "slug": "largest-number",
@@ -34,6 +34,16 @@
       "memory": "46.5 MB",
       "path": "0345-reverse-vowels-of-a-string/solution.java",
       "solvedAt": "2026-10-09T09:44:43.768Z"
+    },
+    "0078": {
+      "slug": "subsets",
+      "title": "Subsets",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": "0 ms",
+      "memory": "43.8 MB",
+      "path": "0078-subsets/solution.java",
+      "solvedAt": "2026-10-09T09:47:04.320Z"
     }
   }
 }
