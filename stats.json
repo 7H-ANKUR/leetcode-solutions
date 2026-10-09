@@ -1,9 +1,9 @@
 {
-  "totalSolved": 2,
-  "easySolved": 1,
+  "totalSolved": 3,
+  "easySolved": 2,
   "mediumSolved": 1,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-09T09:43:42.945Z",
+  "lastUpdated": "2026-10-09T09:44:43.768Z",
   "problems": {
     "0179": {
       "slug": "largest-number",
@@ -24,6 +24,16 @@
       "memory": "46.3 MB",
       "path": "0383-ransom-note/solution.java",
       "solvedAt": "2026-10-09T08:41:56.864Z"
+    },
+    "0345": {
+      "slug": "reverse-vowels-of-a-string",
+      "title": "Reverse Vowels of a String",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "2 ms",
+      "memory": "46.5 MB",
+      "path": "0345-reverse-vowels-of-a-string/solution.java",
+      "solvedAt": "2026-10-09T09:44:43.768Z"
     }
   }
 }
