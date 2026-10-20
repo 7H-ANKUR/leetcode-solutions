@@ -1,13 +1,14 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **7 solved** — 4 Easy, 3 Medium, 0 Hard.
+Auto-synced from LeetCode. **8 solved** — 5 Easy, 3 Medium, 0 Hard.
 
-_Last updated: 2026-10-20T08:49:55.671Z_
+_Last updated: 2026-10-20T08:51:39.048Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
 | 78 | [Subsets](0078-subsets/README.md) | Medium | java | 0 ms | 43.8 MB |
 | 179 | [Largest Number](0179-largest-number/README.md) | Medium | java | — | — |
+| 303 | [Range Sum Query - Immutable](0303-range-sum-query-immutable/README.md) | Easy | java | 8 ms | 47.5 MB |
 | 345 | [Reverse Vowels of a String](0345-reverse-vowels-of-a-string/README.md) | Easy | java | 2 ms | 46.5 MB |
 | 383 | [Ransom Note](0383-ransom-note/README.md) | Easy | java | 1 ms | 46.3 MB |
 | 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/README.md) | Medium | java | 4 ms | 52.4 MB |
