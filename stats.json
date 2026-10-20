@@ -1,10 +1,20 @@
 {
   "totalSolved": 6,
-  "easySolved": 4,
-  "mediumSolved": 2,
+  "easySolved": 3,
+  "mediumSolved": 3,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-20T08:35:43.368Z",
+  "lastUpdated": "2026-10-20T08:36:40.368Z",
   "problems": {
+    "1004": {
+      "slug": "max-consecutive-ones-iii",
+      "title": "Max Consecutive Ones III",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": "4 ms",
+      "memory": "52.4 MB",
+      "path": "1004-max-consecutive-ones-iii/solution.java",
+      "solvedAt": "2026-10-20T08:36:40.368Z"
+    },
     "1704": {
       "slug": "determine-if-string-halves-are-alike",
       "title": "Determine if String Halves Are Alike",
@@ -54,16 +64,6 @@
       "memory": "43.8 MB",
       "path": "0078-subsets/solution.java",
       "solvedAt": "2026-10-09T09:47:04.320Z"
-    },
-    "0485": {
-      "slug": "max-consecutive-ones",
-      "title": "Max Consecutive Ones",
-      "difficulty": "Easy",
-      "language": "java",
-      "runtime": "2 ms",
-      "memory": "52.5 MB",
-      "path": "0485-max-consecutive-ones/solution.java",
-      "solvedAt": "2026-10-20T08:35:43.367Z"
     }
   }
 }
