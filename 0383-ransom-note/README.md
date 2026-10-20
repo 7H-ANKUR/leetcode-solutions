@@ -2,8 +2,8 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 1 ms (better than 99.96%)
-**Memory:** 45.6 MB (better than 99.82%)
+**Runtime:** 1 ms
+**Memory:** 45.6 MB
 **Topics:** Hash Table, String, Counting
 
 [View on LeetCode](https://leetcode.com/problems/ransom-note/)
