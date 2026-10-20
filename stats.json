@@ -1,9 +1,9 @@
 {
-  "totalSolved": 8,
-  "easySolved": 5,
+  "totalSolved": 9,
+  "easySolved": 6,
   "mediumSolved": 3,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-20T08:51:39.047Z",
+  "lastUpdated": "2026-10-20T08:52:43.150Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -84,6 +84,16 @@
       "memory": "47.5 MB",
       "path": "0303-range-sum-query-immutable/solution.java",
       "solvedAt": "2026-10-20T08:51:39.047Z"
+    },
+    "0125": {
+      "slug": "valid-palindrome",
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "14 ms",
+      "memory": "45.9 MB",
+      "path": "0125-valid-palindrome/solution.java",
+      "solvedAt": "2026-10-20T08:52:43.150Z"
     }
   }
 }

@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **8 solved** — 5 Easy, 3 Medium, 0 Hard.
+Auto-synced from LeetCode. **9 solved** — 6 Easy, 3 Medium, 0 Hard.
 
-_Last updated: 2026-10-20T08:51:39.048Z_
+_Last updated: 2026-10-20T08:52:43.151Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
 | 78 | [Subsets](0078-subsets/README.md) | Medium | java | 0 ms | 43.8 MB |
+| 125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | java | 14 ms | 45.9 MB |
 | 179 | [Largest Number](0179-largest-number/README.md) | Medium | java | — | — |
 | 303 | [Range Sum Query - Immutable](0303-range-sum-query-immutable/README.md) | Easy | java | 8 ms | 47.5 MB |
 | 345 | [Reverse Vowels of a String](0345-reverse-vowels-of-a-string/README.md) | Easy | java | 2 ms | 46.5 MB |
