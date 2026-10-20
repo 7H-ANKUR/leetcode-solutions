@@ -1,9 +1,9 @@
 {
-  "totalSolved": 6,
-  "easySolved": 3,
+  "totalSolved": 7,
+  "easySolved": 4,
   "mediumSolved": 3,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-20T08:36:40.368Z",
+  "lastUpdated": "2026-10-20T08:49:55.671Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -14,6 +14,16 @@
       "memory": "52.4 MB",
       "path": "1004-max-consecutive-ones-iii/solution.java",
       "solvedAt": "2026-10-20T08:36:40.368Z"
+    },
+    "1480": {
+      "slug": "running-sum-of-1d-array",
+      "title": "Running Sum of 1d Array",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "0 ms",
+      "memory": "44 MB",
+      "path": "1480-running-sum-of-1d-array/solution.java",
+      "solvedAt": "2026-10-20T08:49:55.667Z"
     },
     "1704": {
       "slug": "determine-if-string-halves-are-alike",
