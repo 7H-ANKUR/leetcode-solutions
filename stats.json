@@ -1,9 +1,9 @@
 {
-  "totalSolved": 12,
-  "easySolved": 8,
+  "totalSolved": 13,
+  "easySolved": 9,
   "mediumSolved": 4,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-20T09:13:54.866Z",
+  "lastUpdated": "2026-10-20T09:17:33.740Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -124,6 +124,16 @@
       "memory": "44 MB",
       "path": "0151-reverse-words-in-a-string/solution.java",
       "solvedAt": "2026-10-20T09:13:54.864Z"
+    },
+    "0557": {
+      "slug": "reverse-words-in-a-string-iii",
+      "title": "Reverse Words in a String III",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "4 ms",
+      "memory": "45.7 MB",
+      "path": "0557-reverse-words-in-a-string-iii/solution.java",
+      "solvedAt": "2026-10-20T09:17:33.740Z"
     }
   }
 }
