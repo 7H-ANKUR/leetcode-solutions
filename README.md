@@ -2,11 +2,11 @@
 
 Auto-synced from LeetCode. **20 solved** — 15 Easy, 5 Medium, 0 Hard.
 
-_Last updated: 2026-10-20T09:36:03.323Z_
+_Last updated: 2026-10-20T09:37:34.837Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
-| 78 | [Subsets](0078-subsets/README.md) | Medium | java | 0 ms | 43.8 MB |
+| 78 | [Subsets](0078-subsets/README.md) | Medium | java | 1 ms | 43.8 MB |
 | 125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | java | 14 ms | 45.9 MB |
 | 151 | [Reverse Words in a String](0151-reverse-words-in-a-string/README.md) | Medium | java | 7 ms | 44 MB |
 | 179 | [Largest Number](0179-largest-number/README.md) | Medium | java | — | — |
