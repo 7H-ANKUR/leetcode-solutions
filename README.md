@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **4 solved** — 2 Easy, 2 Medium, 0 Hard.
+Auto-synced from LeetCode. **5 solved** — 3 Easy, 2 Medium, 0 Hard.
 
-_Last updated: 2026-10-09T10:15:32.808Z_
+_Last updated: 2026-10-20T08:33:55.555Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
@@ -10,3 +10,4 @@ _Last updated: 2026-10-09T10:15:32.808Z_
 | 179 | [Largest Number](0179-largest-number/README.md) | Medium | java | — | — |
 | 345 | [Reverse Vowels of a String](0345-reverse-vowels-of-a-string/README.md) | Easy | java | 2 ms | 46.5 MB |
 | 383 | [Ransom Note](0383-ransom-note/README.md) | Easy | java | 1 ms | 46.3 MB |
+| 1704 | [Determine if String Halves Are Alike](1704-determine-if-string-halves-are-alike/README.md) | Easy | java | — | — |

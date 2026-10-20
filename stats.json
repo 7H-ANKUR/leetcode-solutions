@@ -1,10 +1,20 @@
 {
-  "totalSolved": 4,
-  "easySolved": 2,
+  "totalSolved": 5,
+  "easySolved": 3,
   "mediumSolved": 2,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-09T10:15:32.808Z",
+  "lastUpdated": "2026-10-20T08:33:55.551Z",
   "problems": {
+    "1704": {
+      "slug": "determine-if-string-halves-are-alike",
+      "title": "Determine if String Halves Are Alike",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": null,
+      "memory": null,
+      "path": "1704-determine-if-string-halves-are-alike/solution.java",
+      "solvedAt": "2026-10-20T08:33:55.551Z"
+    },
     "0179": {
       "slug": "largest-number",
       "title": "Largest Number",
