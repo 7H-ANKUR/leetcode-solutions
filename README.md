@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **19 solved** — 14 Easy, 5 Medium, 0 Hard.
+Auto-synced from LeetCode. **20 solved** — 15 Easy, 5 Medium, 0 Hard.
 
-_Last updated: 2026-10-20T09:26:22.495Z_
+_Last updated: 2026-10-20T09:27:50.342Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
@@ -14,6 +14,7 @@ _Last updated: 2026-10-20T09:26:22.495Z_
 | 345 | [Reverse Vowels of a String](0345-reverse-vowels-of-a-string/README.md) | Easy | java | 2 ms | 46.5 MB |
 | 383 | [Ransom Note](0383-ransom-note/README.md) | Easy | java | 1 ms | 46.3 MB |
 | 392 | [Is Subsequence](0392-is-subsequence/README.md) | Easy | java | 2 ms | 43 MB |
+| 415 | [Add Strings](0415-add-strings/README.md) | Easy | java | 2 ms | 43.4 MB |
 | 500 | [Keyboard Row](0500-keyboard-row/README.md) | Easy | java | 1 ms | 42.2 MB |
 | 557 | [Reverse Words in a String III](0557-reverse-words-in-a-string-iii/README.md) | Easy | java | 4 ms | 45.7 MB |
 | 643 | [Maximum Average Subarray I](0643-maximum-average-subarray-i/README.md) | Easy | java | 284 ms | 69.2 MB |
