@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **13 solved** — 9 Easy, 4 Medium, 0 Hard.
+Auto-synced from LeetCode. **14 solved** — 10 Easy, 4 Medium, 0 Hard.
 
-_Last updated: 2026-10-20T09:17:33.741Z_
+_Last updated: 2026-10-20T09:18:39.096Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
@@ -14,6 +14,7 @@ _Last updated: 2026-10-20T09:17:33.741Z_
 | 345 | [Reverse Vowels of a String](0345-reverse-vowels-of-a-string/README.md) | Easy | java | 2 ms | 46.5 MB |
 | 383 | [Ransom Note](0383-ransom-note/README.md) | Easy | java | 1 ms | 46.3 MB |
 | 557 | [Reverse Words in a String III](0557-reverse-words-in-a-string-iii/README.md) | Easy | java | 4 ms | 45.7 MB |
+| 844 | [Backspace String Compare](0844-backspace-string-compare/README.md) | Easy | java | 3 ms | 42.7 MB |
 | 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/README.md) | Medium | java | 4 ms | 52.4 MB |
 | 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/README.md) | Easy | java | 0 ms | 44 MB |
 | 1704 | [Determine if String Halves Are Alike](1704-determine-if-string-halves-are-alike/README.md) | Easy | java | — | — |
