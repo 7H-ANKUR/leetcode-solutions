@@ -1,9 +1,9 @@
 {
-  "totalSolved": 18,
-  "easySolved": 13,
+  "totalSolved": 19,
+  "easySolved": 14,
   "mediumSolved": 5,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-20T09:24:34.893Z",
+  "lastUpdated": "2026-10-20T09:26:22.493Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -64,6 +64,16 @@
       "memory": "42.7 MB",
       "path": "1832-check-if-the-sentence-is-pangram/solution.java",
       "solvedAt": "2026-10-20T08:55:43.575Z"
+    },
+    "3550": {
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "1 ms",
+      "memory": "45.6 MB",
+      "path": "3550-smallest-index-with-digit-sum-equal-to-index/solution.java",
+      "solvedAt": "2026-10-20T09:26:22.491Z"
     },
     "0179": {
       "slug": "largest-number",
