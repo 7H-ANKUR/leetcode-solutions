@@ -1,9 +1,9 @@
 {
-  "totalSolved": 9,
-  "easySolved": 6,
+  "totalSolved": 10,
+  "easySolved": 7,
   "mediumSolved": 3,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-20T08:52:43.150Z",
+  "lastUpdated": "2026-10-20T08:55:43.575Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -34,6 +34,16 @@
       "memory": null,
       "path": "1704-determine-if-string-halves-are-alike/solution.java",
       "solvedAt": "2026-10-20T08:33:55.551Z"
+    },
+    "1832": {
+      "slug": "check-if-the-sentence-is-pangram",
+      "title": "Check if the Sentence Is Pangram",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "0 ms",
+      "memory": "42.7 MB",
+      "path": "1832-check-if-the-sentence-is-pangram/solution.java",
+      "solvedAt": "2026-10-20T08:55:43.575Z"
     },
     "0179": {
       "slug": "largest-number",
