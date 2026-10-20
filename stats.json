@@ -1,9 +1,9 @@
 {
-  "totalSolved": 5,
-  "easySolved": 3,
+  "totalSolved": 6,
+  "easySolved": 4,
   "mediumSolved": 2,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-20T08:33:55.551Z",
+  "lastUpdated": "2026-10-20T08:35:43.368Z",
   "problems": {
     "1704": {
       "slug": "determine-if-string-halves-are-alike",
@@ -54,6 +54,16 @@
       "memory": "43.8 MB",
       "path": "0078-subsets/solution.java",
       "solvedAt": "2026-10-09T09:47:04.320Z"
+    },
+    "0485": {
+      "slug": "max-consecutive-ones",
+      "title": "Max Consecutive Ones",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "2 ms",
+      "memory": "52.5 MB",
+      "path": "0485-max-consecutive-ones/solution.java",
+      "solvedAt": "2026-10-20T08:35:43.367Z"
     }
   }
 }
