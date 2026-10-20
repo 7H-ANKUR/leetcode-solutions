@@ -1,9 +1,9 @@
 {
-  "totalSolved": 15,
-  "easySolved": 11,
+  "totalSolved": 16,
+  "easySolved": 12,
   "mediumSolved": 4,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-20T09:20:37.011Z",
+  "lastUpdated": "2026-10-20T09:21:46.121Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -154,6 +154,16 @@
       "memory": "43 MB",
       "path": "0392-is-subsequence/solution.java",
       "solvedAt": "2026-10-20T09:20:37.011Z"
+    },
+    "0500": {
+      "slug": "keyboard-row",
+      "title": "Keyboard Row",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "1 ms",
+      "memory": "42.2 MB",
+      "path": "0500-keyboard-row/solution.java",
+      "solvedAt": "2026-10-20T09:21:46.119Z"
     }
   }
 }
