@@ -1,9 +1,9 @@
 {
-  "totalSolved": 16,
-  "easySolved": 12,
+  "totalSolved": 17,
+  "easySolved": 13,
   "mediumSolved": 4,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-20T09:21:46.121Z",
+  "lastUpdated": "2026-10-20T09:23:34.913Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -164,6 +164,16 @@
       "memory": "42.2 MB",
       "path": "0500-keyboard-row/solution.java",
       "solvedAt": "2026-10-20T09:21:46.119Z"
+    },
+    "0643": {
+      "slug": "maximum-average-subarray-i",
+      "title": "Maximum Average Subarray I",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "284 ms",
+      "memory": "69.2 MB",
+      "path": "0643-maximum-average-subarray-i/solution.java",
+      "solvedAt": "2026-10-20T09:23:34.913Z"
     }
   }
 }
