@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **21 solved** — 16 Easy, 5 Medium, 0 Hard.
+Auto-synced from LeetCode. **22 solved** — 17 Easy, 5 Medium, 0 Hard.
 
-_Last updated: 2026-10-21T09:20:08.174Z_
+_Last updated: 2026-10-21T10:56:29.206Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
@@ -13,6 +13,7 @@ _Last updated: 2026-10-21T09:20:08.174Z_
 | 303 | [Range Sum Query - Immutable](0303-range-sum-query-immutable/README.md) | Easy | java | 8 ms | 47.5 MB |
 | 345 | [Reverse Vowels of a String](0345-reverse-vowels-of-a-string/README.md) | Easy | java | 3 ms | 46.2 MB |
 | 383 | [Ransom Note](0383-ransom-note/README.md) | Easy | java | 1 ms | 45.6 MB |
+| 387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | java | 6 ms | 46.8 MB |
 | 392 | [Is Subsequence](0392-is-subsequence/README.md) | Easy | java | 2 ms | 43 MB |
 | 415 | [Add Strings](0415-add-strings/README.md) | Easy | java | 2 ms | 43.4 MB |
 | 500 | [Keyboard Row](0500-keyboard-row/README.md) | Easy | java | 1 ms | 42.2 MB |

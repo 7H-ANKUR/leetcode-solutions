@@ -1,9 +1,9 @@
 {
-  "totalSolved": 21,
-  "easySolved": 16,
+  "totalSolved": 22,
+  "easySolved": 17,
   "mediumSolved": 5,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-21T09:20:08.172Z",
+  "lastUpdated": "2026-10-21T10:56:29.205Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -214,6 +214,16 @@
       "memory": "43.4 MB",
       "path": "0415-add-strings/solution.java",
       "solvedAt": "2026-10-20T09:27:50.340Z"
+    },
+    "0387": {
+      "slug": "first-unique-character-in-a-string",
+      "title": "First Unique Character in a String",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "6 ms",
+      "memory": "46.8 MB",
+      "path": "0387-first-unique-character-in-a-string/solution.java",
+      "solvedAt": "2026-10-21T10:56:29.202Z"
     }
   }
 }
