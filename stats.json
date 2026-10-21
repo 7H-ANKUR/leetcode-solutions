@@ -3,7 +3,7 @@
   "easySolved": 16,
   "mediumSolved": 5,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-21T09:19:15.280Z",
+  "lastUpdated": "2026-10-21T09:20:08.172Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -20,10 +20,10 @@
       "title": "Defanging an IP Address",
       "difficulty": "Easy",
       "language": "java",
-      "runtime": null,
-      "memory": null,
+      "runtime": "0 ms",
+      "memory": "42.1 MB",
       "path": "1108-defanging-an-ip-address/solution.java",
-      "solvedAt": "2026-10-21T09:19:15.280Z"
+      "solvedAt": "2026-10-21T09:20:08.169Z"
     },
     "1456": {
       "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
