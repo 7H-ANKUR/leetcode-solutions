@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **22 solved** — 17 Easy, 5 Medium, 0 Hard.
+Auto-synced from LeetCode. **23 solved** — 18 Easy, 5 Medium, 0 Hard.
 
-_Last updated: 2026-10-21T10:56:29.206Z_
+_Last updated: 2026-10-26T10:03:43.739Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
+| 1 | [Two Sum](0001-two-sum/README.md) | Easy | java | 45 ms | 46.7 MB |
 | 78 | [Subsets](0078-subsets/README.md) | Medium | java | 1 ms | 43.8 MB |
 | 125 | [Valid Palindrome](0125-valid-palindrome/README.md) | Easy | java | 14 ms | 45.9 MB |
 | 151 | [Reverse Words in a String](0151-reverse-words-in-a-string/README.md) | Medium | java | 7 ms | 44 MB |
