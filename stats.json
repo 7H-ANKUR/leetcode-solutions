@@ -1,9 +1,9 @@
 {
-  "totalSolved": 23,
-  "easySolved": 18,
+  "totalSolved": 24,
+  "easySolved": 19,
   "mediumSolved": 5,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-26T10:03:43.737Z",
+  "lastUpdated": "2026-10-26T11:48:38.400Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -234,6 +234,16 @@
       "memory": "46.7 MB",
       "path": "0001-two-sum/solution.java",
       "solvedAt": "2026-10-26T10:03:43.736Z"
+    },
+    "0205": {
+      "slug": "isomorphic-strings",
+      "title": "Isomorphic Strings",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "7 ms",
+      "memory": "43.2 MB",
+      "path": "0205-isomorphic-strings/solution.java",
+      "solvedAt": "2026-10-26T11:48:38.399Z"
     }
   }
 }
