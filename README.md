@@ -2,7 +2,7 @@
 
 Auto-synced from LeetCode. **24 solved** — 19 Easy, 5 Medium, 0 Hard.
 
-_Last updated: 2026-10-27T10:27:10.649Z_
+_Last updated: 2026-10-27T10:28:02.389Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
