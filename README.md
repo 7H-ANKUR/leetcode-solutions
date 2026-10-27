@@ -2,7 +2,7 @@
 
 Auto-synced from LeetCode. **24 solved** — 19 Easy, 5 Medium, 0 Hard.
 
-_Last updated: 2026-10-27T10:22:58.136Z_
+_Last updated: 2026-10-27T10:27:10.649Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
@@ -24,7 +24,7 @@ _Last updated: 2026-10-27T10:22:58.136Z_
 | 844 | [Backspace String Compare](0844-backspace-string-compare/README.md) | Easy | java | 3 ms | 42.7 MB |
 | 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/README.md) | Medium | java | 4 ms | 52.4 MB |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/README.md) | Easy | java | 0 ms | 42.1 MB |
-| 1456 | [Maximum Number of Vowels in a Substring of Given Length](1456-maximum-number-of-vowels-in-a-substring-of-given-length/README.md) | Medium | java | 12 ms | 46.2 MB |
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](1456-maximum-number-of-vowels-in-a-substring-of-given-length/README.md) | Medium | java | 12 ms | 46 MB |
 | 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/README.md) | Easy | java | 0 ms | 44 MB |
 | 1704 | [Determine if String Halves Are Alike](1704-determine-if-string-halves-are-alike/README.md) | Easy | java | — | — |
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy | java | 4 ms | 43.3 MB |
