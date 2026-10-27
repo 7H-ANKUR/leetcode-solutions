@@ -1,9 +1,9 @@
 {
-  "totalSolved": 24,
-  "easySolved": 19,
+  "totalSolved": 25,
+  "easySolved": 20,
   "mediumSolved": 5,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-27T10:28:02.388Z",
+  "lastUpdated": "2026-10-27T11:12:05.539Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -74,6 +74,16 @@
       "memory": "42.7 MB",
       "path": "1832-check-if-the-sentence-is-pangram/solution.java",
       "solvedAt": "2026-10-20T08:55:43.575Z"
+    },
+    "1876": {
+      "slug": "substrings-of-size-three-with-distinct-characters",
+      "title": "Substrings of Size Three with Distinct Characters",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "1 ms",
+      "memory": "42.5 MB",
+      "path": "1876-substrings-of-size-three-with-distinct-characters/solution.java",
+      "solvedAt": "2026-10-27T11:12:05.539Z"
     },
     "3550": {
       "slug": "smallest-index-with-digit-sum-equal-to-index",

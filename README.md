@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **24 solved** — 19 Easy, 5 Medium, 0 Hard.
+Auto-synced from LeetCode. **25 solved** — 20 Easy, 5 Medium, 0 Hard.
 
-_Last updated: 2026-10-27T10:28:02.389Z_
+_Last updated: 2026-10-27T11:12:05.540Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
@@ -29,4 +29,5 @@ _Last updated: 2026-10-27T10:28:02.389Z_
 | 1704 | [Determine if String Halves Are Alike](1704-determine-if-string-halves-are-alike/README.md) | Easy | java | — | — |
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy | java | 4 ms | 43.3 MB |
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/README.md) | Easy | java | 0 ms | 42.7 MB |
+| 1876 | [Substrings of Size Three with Distinct Characters](1876-substrings-of-size-three-with-distinct-characters/README.md) | Easy | java | 1 ms | 42.5 MB |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/README.md) | Easy | java | 1 ms | 45.6 MB |
