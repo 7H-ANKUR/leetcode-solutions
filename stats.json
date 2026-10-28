@@ -1,370 +1,366 @@
-﻿{
-    "totalSolved":  26,
-    "easySolved":  21,
-    "mediumSolved":  5,
-    "hardSolved":  0,
-    "lastUpdated":  "2026-10-28T09:51:27.109Z",
-    "problems":  {
-                     "1004":  {
-                                  "slug":  "max-consecutive-ones-iii",
-                                  "title":  "Max Consecutive Ones III",
-                                  "difficulty":  "Medium",
-                                  "language":  "java",
-                                  "runtime":  "4 ms",
-                                  "memory":  "52.4 MB",
-                                  "path":  "1004-max-consecutive-ones-iii/solution.java",
-                                  "solvedAt":  "2026-10-20T08:36:40.368Z",
-                                  "topics":  [
-                                                 "Sliding Window",
-                                                 "Array"
-                                             ]
-                              },
-                     "1108":  {
-                                  "slug":  "defanging-an-ip-address",
-                                  "title":  "Defanging an IP Address",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "0 ms",
-                                  "memory":  "42.1 MB",
-                                  "path":  "1108-defanging-an-ip-address/solution.java",
-                                  "solvedAt":  "2026-10-21T09:20:08.169Z",
-                                  "topics":  [
-                                                 "String"
-                                             ]
-                              },
-                     "1456":  {
-                                  "slug":  "maximum-number-of-vowels-in-a-substring-of-given-length",
-                                  "title":  "Maximum Number of Vowels in a Substring of Given Length",
-                                  "difficulty":  "Medium",
-                                  "language":  "java",
-                                  "runtime":  "12 ms",
-                                  "memory":  "46 MB",
-                                  "path":  "1456-maximum-number-of-vowels-in-a-substring-of-given-length/solution.java",
-                                  "solvedAt":  "2026-10-27T10:28:02.388Z",
-                                  "topics":  [
-                                                 "String",
-                                                 "Sliding Window"
-                                             ]
-                              },
-                     "1480":  {
-                                  "slug":  "running-sum-of-1d-array",
-                                  "title":  "Running Sum of 1d Array",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "0 ms",
-                                  "memory":  "44 MB",
-                                  "path":  "1480-running-sum-of-1d-array/solution.java",
-                                  "solvedAt":  "2026-10-20T08:49:55.667Z",
-                                  "topics":  [
-                                                 "Array",
-                                                 "Prefix Sum"
-                                             ]
-                              },
-                     "1704":  {
-                                  "slug":  "determine-if-string-halves-are-alike",
-                                  "title":  "Determine if String Halves Are Alike",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  null,
-                                  "memory":  null,
-                                  "path":  "1704-determine-if-string-halves-are-alike/solution.java",
-                                  "solvedAt":  "2026-10-20T08:33:55.551Z",
-                                  "topics":  [
-                                                 "String"
-                                             ]
-                              },
-                     "1732":  {
-                                  "slug":  "find-the-highest-altitude",
-                                  "title":  "Find the Highest Altitude",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  null,
-                                  "memory":  null,
-                                  "path":  "1732-find-the-highest-altitude/solution.java",
-                                  "solvedAt":  "2026-10-28T09:51:27.109Z",
-                                  "topics":  [
-                                                 "Array",
-                                                 "Prefix Sum"
-                                             ]
-                              },
-                     "1768":  {
-                                  "slug":  "merge-strings-alternately",
-                                  "title":  "Merge Strings Alternately",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "4 ms",
-                                  "memory":  "43.3 MB",
-                                  "path":  "1768-merge-strings-alternately/solution.java",
-                                  "solvedAt":  "2026-10-20T09:01:14.941Z",
-                                  "topics":  [
-                                                 "Two Pointers",
-                                                 "String"
-                                             ]
-                              },
-                     "1832":  {
-                                  "slug":  "check-if-the-sentence-is-pangram",
-                                  "title":  "Check if the Sentence Is Pangram",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "0 ms",
-                                  "memory":  "42.7 MB",
-                                  "path":  "1832-check-if-the-sentence-is-pangram/solution.java",
-                                  "solvedAt":  "2026-10-20T08:55:43.575Z",
-                                  "topics":  [
-                                                 "Hash Table",
-                                                 "String"
-                                             ]
-                              },
-                     "1876":  {
-                                  "slug":  "substrings-of-size-three-with-distinct-characters",
-                                  "title":  "Substrings of Size Three with Distinct Characters",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "1 ms",
-                                  "memory":  "42.5 MB",
-                                  "path":  "1876-substrings-of-size-three-with-distinct-characters/solution.java",
-                                  "solvedAt":  "2026-10-27T11:12:05.539Z",
-                                  "topics":  [
-                                                 "Sliding Window",
-                                                 "String",
-                                                 "Hash Table"
-                                             ]
-                              },
-                     "3550":  {
-                                  "slug":  "smallest-index-with-digit-sum-equal-to-index",
-                                  "title":  "Smallest Index With Digit Sum Equal to Index",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "1 ms",
-                                  "memory":  "45.6 MB",
-                                  "path":  "3550-smallest-index-with-digit-sum-equal-to-index/solution.java",
-                                  "solvedAt":  "2026-10-20T09:26:22.491Z",
-                                  "topics":  [
-                                                 "Array"
-                                             ]
-                              },
-                     "0179":  {
-                                  "slug":  "largest-number",
-                                  "title":  "Largest Number",
-                                  "difficulty":  "Medium",
-                                  "language":  "java",
-                                  "runtime":  null,
-                                  "memory":  null,
-                                  "path":  "0179-largest-number/solution.java",
-                                  "solvedAt":  "2026-10-09T10:15:32.808Z",
-                                  "topics":  [
-                                                 "String",
-                                                 "Greedy"
-                                             ]
-                              },
-                     "0383":  {
-                                  "slug":  "ransom-note",
-                                  "title":  "Ransom Note",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "1 ms",
-                                  "memory":  "45.6 MB",
-                                  "path":  "0383-ransom-note/solution.java",
-                                  "solvedAt":  "2026-10-20T09:33:51.756Z",
-                                  "topics":  [
-                                                 "Hash Table",
-                                                 "String"
-                                             ]
-                              },
-                     "0345":  {
-                                  "slug":  "reverse-vowels-of-a-string",
-                                  "title":  "Reverse Vowels of a String",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "3 ms",
-                                  "memory":  "46.2 MB",
-                                  "path":  "0345-reverse-vowels-of-a-string/solution.java",
-                                  "solvedAt":  "2026-10-20T09:36:03.321Z",
-                                  "topics":  [
-                                                 "Two Pointers",
-                                                 "String"
-                                             ]
-                              },
-                     "0078":  {
-                                  "slug":  "subsets",
-                                  "title":  "Subsets",
-                                  "difficulty":  "Medium",
-                                  "language":  "java",
-                                  "runtime":  "1 ms",
-                                  "memory":  "43.8 MB",
-                                  "path":  "0078-subsets/solution.java",
-                                  "solvedAt":  "2026-10-20T09:37:34.832Z",
-                                  "topics":  [
-                                                 "Array",
-                                                 "Backtracking"
-                                             ]
-                              },
-                     "0303":  {
-                                  "slug":  "range-sum-query-immutable",
-                                  "title":  "Range Sum Query - Immutable",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "8 ms",
-                                  "memory":  "47.5 MB",
-                                  "path":  "0303-range-sum-query-immutable/solution.java",
-                                  "solvedAt":  "2026-10-20T08:51:39.047Z",
-                                  "topics":  [
-                                                 "Array",
-                                                 "Prefix Sum"
-                                             ]
-                              },
-                     "0125":  {
-                                  "slug":  "valid-palindrome",
-                                  "title":  "Valid Palindrome",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "14 ms",
-                                  "memory":  "45.9 MB",
-                                  "path":  "0125-valid-palindrome/solution.java",
-                                  "solvedAt":  "2026-10-20T08:52:43.150Z",
-                                  "topics":  [
-                                                 "Two Pointers",
-                                                 "String"
-                                             ]
-                              },
-                     "0151":  {
-                                  "slug":  "reverse-words-in-a-string",
-                                  "title":  "Reverse Words in a String",
-                                  "difficulty":  "Medium",
-                                  "language":  "java",
-                                  "runtime":  "7 ms",
-                                  "memory":  "44 MB",
-                                  "path":  "0151-reverse-words-in-a-string/solution.java",
-                                  "solvedAt":  "2026-10-20T09:13:54.864Z",
-                                  "topics":  [
-                                                 "Two Pointers",
-                                                 "String"
-                                             ]
-                              },
-                     "0557":  {
-                                  "slug":  "reverse-words-in-a-string-iii",
-                                  "title":  "Reverse Words in a String III",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "4 ms",
-                                  "memory":  "45.7 MB",
-                                  "path":  "0557-reverse-words-in-a-string-iii/solution.java",
-                                  "solvedAt":  "2026-10-20T09:17:33.740Z",
-                                  "topics":  [
-                                                 "String"
-                                             ]
-                              },
-                     "0844":  {
-                                  "slug":  "backspace-string-compare",
-                                  "title":  "Backspace String Compare",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "3 ms",
-                                  "memory":  "42.7 MB",
-                                  "path":  "0844-backspace-string-compare/solution.java",
-                                  "solvedAt":  "2026-10-20T09:18:39.095Z",
-                                  "topics":  [
-                                                 "Stack",
-                                                 "String"
-                                             ]
-                              },
-                     "0392":  {
-                                  "slug":  "is-subsequence",
-                                  "title":  "Is Subsequence",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "2 ms",
-                                  "memory":  "43 MB",
-                                  "path":  "0392-is-subsequence/solution.java",
-                                  "solvedAt":  "2026-10-20T09:20:37.011Z",
-                                  "topics":  [
-                                                 "Two Pointers",
-                                                 "String"
-                                             ]
-                              },
-                     "0500":  {
-                                  "slug":  "keyboard-row",
-                                  "title":  "Keyboard Row",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "1 ms",
-                                  "memory":  "42.2 MB",
-                                  "path":  "0500-keyboard-row/solution.java",
-                                  "solvedAt":  "2026-10-20T09:21:46.119Z",
-                                  "topics":  [
-                                                 "Array",
-                                                 "Hash Table"
-                                             ]
-                              },
-                     "0643":  {
-                                  "slug":  "maximum-average-subarray-i",
-                                  "title":  "Maximum Average Subarray I",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "3 ms",
-                                  "memory":  "69.2 MB",
-                                  "path":  "0643-maximum-average-subarray-i/solution.java",
-                                  "solvedAt":  "2026-10-27T10:22:58.134Z",
-                                  "topics":  [
-                                                 "Sliding Window",
-                                                 "Array"
-                                             ]
-                              },
-                     "0415":  {
-                                  "slug":  "add-strings",
-                                  "title":  "Add Strings",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "2 ms",
-                                  "memory":  "43.4 MB",
-                                  "path":  "0415-add-strings/solution.java",
-                                  "solvedAt":  "2026-10-20T09:27:50.340Z",
-                                  "topics":  [
-                                                 "Math",
-                                                 "String"
-                                             ]
-                              },
-                     "0387":  {
-                                  "slug":  "first-unique-character-in-a-string",
-                                  "title":  "First Unique Character in a String",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "6 ms",
-                                  "memory":  "46.8 MB",
-                                  "path":  "0387-first-unique-character-in-a-string/solution.java",
-                                  "solvedAt":  "2026-10-21T10:56:29.202Z",
-                                  "topics":  [
-                                                 "Hash Table",
-                                                 "String"
-                                             ]
-                              },
-                     "0001":  {
-                                  "slug":  "two-sum",
-                                  "title":  "Two Sum",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "45 ms",
-                                  "memory":  "46.7 MB",
-                                  "path":  "0001-two-sum/solution.java",
-                                  "solvedAt":  "2026-10-26T10:03:43.736Z",
-                                  "topics":  [
-                                                 "Array",
-                                                 "Hash Table"
-                                             ]
-                              },
-                     "0205":  {
-                                  "slug":  "isomorphic-strings",
-                                  "title":  "Isomorphic Strings",
-                                  "difficulty":  "Easy",
-                                  "language":  "java",
-                                  "runtime":  "7 ms",
-                                  "memory":  "43.2 MB",
-                                  "path":  "0205-isomorphic-strings/solution.java",
-                                  "solvedAt":  "2026-10-26T11:48:38.399Z",
-                                  "topics":  [
-                                                 "Hash Table",
-                                                 "String"
-                                             ]
-                              }
-                 }
+{
+  "totalSolved": 26,
+  "easySolved": 21,
+  "mediumSolved": 5,
+  "hardSolved": 0,
+  "lastUpdated": "2026-10-28T11:44:14.342Z",
+  "problems": {
+    "1004": {
+      "slug": "max-consecutive-ones-iii",
+      "title": "Max Consecutive Ones III",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": "4 ms",
+      "memory": "52.4 MB",
+      "path": "1004-max-consecutive-ones-iii/solution.java",
+      "solvedAt": "2026-10-20T08:36:40.368Z",
+      "topics": [
+        "Sliding Window",
+        "Array"
+      ]
+    },
+    "1108": {
+      "slug": "defanging-an-ip-address",
+      "title": "Defanging an IP Address",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "0 ms",
+      "memory": "42.1 MB",
+      "path": "1108-defanging-an-ip-address/solution.java",
+      "solvedAt": "2026-10-21T09:20:08.169Z",
+      "topics": [
+        "String"
+      ]
+    },
+    "1456": {
+      "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": "12 ms",
+      "memory": "46 MB",
+      "path": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/solution.java",
+      "solvedAt": "2026-10-27T10:28:02.388Z",
+      "topics": [
+        "String",
+        "Sliding Window"
+      ]
+    },
+    "1480": {
+      "slug": "running-sum-of-1d-array",
+      "title": "Running Sum of 1d Array",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "0 ms",
+      "memory": "44 MB",
+      "path": "1480-running-sum-of-1d-array/solution.java",
+      "solvedAt": "2026-10-20T08:49:55.667Z",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ]
+    },
+    "1704": {
+      "slug": "determine-if-string-halves-are-alike",
+      "title": "Determine if String Halves Are Alike",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": null,
+      "memory": null,
+      "path": "1704-determine-if-string-halves-are-alike/solution.java",
+      "solvedAt": "2026-10-20T08:33:55.551Z",
+      "topics": [
+        "String"
+      ]
+    },
+    "1732": {
+      "slug": "find-the-highest-altitude",
+      "title": "Find the Highest Altitude",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": null,
+      "memory": "5 MB",
+      "path": "1732-find-the-highest-altitude/solution.java",
+      "solvedAt": "2026-10-28T11:44:14.342Z"
+    },
+    "1768": {
+      "slug": "merge-strings-alternately",
+      "title": "Merge Strings Alternately",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "4 ms",
+      "memory": "43.3 MB",
+      "path": "1768-merge-strings-alternately/solution.java",
+      "solvedAt": "2026-10-20T09:01:14.941Z",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "1832": {
+      "slug": "check-if-the-sentence-is-pangram",
+      "title": "Check if the Sentence Is Pangram",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "0 ms",
+      "memory": "42.7 MB",
+      "path": "1832-check-if-the-sentence-is-pangram/solution.java",
+      "solvedAt": "2026-10-20T08:55:43.575Z",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    "1876": {
+      "slug": "substrings-of-size-three-with-distinct-characters",
+      "title": "Substrings of Size Three with Distinct Characters",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "1 ms",
+      "memory": "42.5 MB",
+      "path": "1876-substrings-of-size-three-with-distinct-characters/solution.java",
+      "solvedAt": "2026-10-27T11:12:05.539Z",
+      "topics": [
+        "Sliding Window",
+        "String",
+        "Hash Table"
+      ]
+    },
+    "3550": {
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "1 ms",
+      "memory": "45.6 MB",
+      "path": "3550-smallest-index-with-digit-sum-equal-to-index/solution.java",
+      "solvedAt": "2026-10-20T09:26:22.491Z",
+      "topics": [
+        "Array"
+      ]
+    },
+    "0179": {
+      "slug": "largest-number",
+      "title": "Largest Number",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": null,
+      "memory": null,
+      "path": "0179-largest-number/solution.java",
+      "solvedAt": "2026-10-09T10:15:32.808Z",
+      "topics": [
+        "String",
+        "Greedy"
+      ]
+    },
+    "0383": {
+      "slug": "ransom-note",
+      "title": "Ransom Note",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "1 ms",
+      "memory": "45.6 MB",
+      "path": "0383-ransom-note/solution.java",
+      "solvedAt": "2026-10-20T09:33:51.756Z",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    "0345": {
+      "slug": "reverse-vowels-of-a-string",
+      "title": "Reverse Vowels of a String",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "3 ms",
+      "memory": "46.2 MB",
+      "path": "0345-reverse-vowels-of-a-string/solution.java",
+      "solvedAt": "2026-10-20T09:36:03.321Z",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "0078": {
+      "slug": "subsets",
+      "title": "Subsets",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": "1 ms",
+      "memory": "43.8 MB",
+      "path": "0078-subsets/solution.java",
+      "solvedAt": "2026-10-20T09:37:34.832Z",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ]
+    },
+    "0303": {
+      "slug": "range-sum-query-immutable",
+      "title": "Range Sum Query - Immutable",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "8 ms",
+      "memory": "47.5 MB",
+      "path": "0303-range-sum-query-immutable/solution.java",
+      "solvedAt": "2026-10-20T08:51:39.047Z",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ]
+    },
+    "0125": {
+      "slug": "valid-palindrome",
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "14 ms",
+      "memory": "45.9 MB",
+      "path": "0125-valid-palindrome/solution.java",
+      "solvedAt": "2026-10-20T08:52:43.150Z",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "0151": {
+      "slug": "reverse-words-in-a-string",
+      "title": "Reverse Words in a String",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": "7 ms",
+      "memory": "44 MB",
+      "path": "0151-reverse-words-in-a-string/solution.java",
+      "solvedAt": "2026-10-20T09:13:54.864Z",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "0557": {
+      "slug": "reverse-words-in-a-string-iii",
+      "title": "Reverse Words in a String III",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "4 ms",
+      "memory": "45.7 MB",
+      "path": "0557-reverse-words-in-a-string-iii/solution.java",
+      "solvedAt": "2026-10-20T09:17:33.740Z",
+      "topics": [
+        "String"
+      ]
+    },
+    "0844": {
+      "slug": "backspace-string-compare",
+      "title": "Backspace String Compare",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "3 ms",
+      "memory": "42.7 MB",
+      "path": "0844-backspace-string-compare/solution.java",
+      "solvedAt": "2026-10-20T09:18:39.095Z",
+      "topics": [
+        "Stack",
+        "String"
+      ]
+    },
+    "0392": {
+      "slug": "is-subsequence",
+      "title": "Is Subsequence",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "2 ms",
+      "memory": "43 MB",
+      "path": "0392-is-subsequence/solution.java",
+      "solvedAt": "2026-10-20T09:20:37.011Z",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "0500": {
+      "slug": "keyboard-row",
+      "title": "Keyboard Row",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "1 ms",
+      "memory": "42.2 MB",
+      "path": "0500-keyboard-row/solution.java",
+      "solvedAt": "2026-10-20T09:21:46.119Z",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    "0643": {
+      "slug": "maximum-average-subarray-i",
+      "title": "Maximum Average Subarray I",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "3 ms",
+      "memory": "69.2 MB",
+      "path": "0643-maximum-average-subarray-i/solution.java",
+      "solvedAt": "2026-10-27T10:22:58.134Z",
+      "topics": [
+        "Sliding Window",
+        "Array"
+      ]
+    },
+    "0415": {
+      "slug": "add-strings",
+      "title": "Add Strings",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "2 ms",
+      "memory": "43.4 MB",
+      "path": "0415-add-strings/solution.java",
+      "solvedAt": "2026-10-20T09:27:50.340Z",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    },
+    "0387": {
+      "slug": "first-unique-character-in-a-string",
+      "title": "First Unique Character in a String",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "6 ms",
+      "memory": "46.8 MB",
+      "path": "0387-first-unique-character-in-a-string/solution.java",
+      "solvedAt": "2026-10-21T10:56:29.202Z",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    "0001": {
+      "slug": "two-sum",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "45 ms",
+      "memory": "46.7 MB",
+      "path": "0001-two-sum/solution.java",
+      "solvedAt": "2026-10-26T10:03:43.736Z",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    "0205": {
+      "slug": "isomorphic-strings",
+      "title": "Isomorphic Strings",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": "7 ms",
+      "memory": "43.2 MB",
+      "path": "0205-isomorphic-strings/solution.java",
+      "solvedAt": "2026-10-26T11:48:38.399Z",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
+    }
+  }
 }

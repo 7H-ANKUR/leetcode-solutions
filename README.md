@@ -1,8 +1,8 @@
-﻿# LeetCode Solutions
+# LeetCode Solutions
 
 Auto-synced from LeetCode. **26 solved** — 21 Easy, 5 Medium, 0 Hard.
 
-_Last updated: 2026-10-28T09:51:27.109Z_
+_Last updated: 2026-10-28T11:44:14.342Z_
 
 ## Array
 
@@ -13,7 +13,6 @@ _Last updated: 2026-10-28T09:51:27.109Z_
 | 0303 | [Range Sum Query - Immutable](0303-range-sum-query-immutable/README.md) | Easy | java | 8 ms | 47.5 MB |
 | 0500 | [Keyboard Row](0500-keyboard-row/README.md) | Easy | java | 1 ms | 42.2 MB |
 | 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/README.md) | Easy | java | 0 ms | 44 MB |
-| 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/README.md) | Easy | java |  |  |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/README.md) | Easy | java | 1 ms | 45.6 MB |
 
 ## Hash Table
@@ -30,6 +29,12 @@ _Last updated: 2026-10-28T09:51:27.109Z_
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
 | 0415 | [Add Strings](0415-add-strings/README.md) | Easy | java | 2 ms | 43.4 MB |
+
+## Misc
+
+| # | Title | Difficulty | Language | Runtime | Memory |
+|---|-------|------------|----------|---------|--------|
+| 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/README.md) | Easy | java | — | 5 MB |
 
 ## Sliding Window
 
@@ -49,11 +54,11 @@ _Last updated: 2026-10-28T09:51:27.109Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
-| 0179 | [Largest Number](0179-largest-number/README.md) | Medium | java |  |  |
+| 0179 | [Largest Number](0179-largest-number/README.md) | Medium | java | — | — |
 | 0557 | [Reverse Words in a String III](0557-reverse-words-in-a-string-iii/README.md) | Easy | java | 4 ms | 45.7 MB |
 | 1108 | [Defanging an IP Address](1108-defanging-an-ip-address/README.md) | Easy | java | 0 ms | 42.1 MB |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](1456-maximum-number-of-vowels-in-a-substring-of-given-length/README.md) | Medium | java | 12 ms | 46 MB |
-| 1704 | [Determine if String Halves Are Alike](1704-determine-if-string-halves-are-alike/README.md) | Easy | java |  |  |
+| 1704 | [Determine if String Halves Are Alike](1704-determine-if-string-halves-are-alike/README.md) | Easy | java | — | — |
 
 ## Two Pointers
 
@@ -64,4 +69,3 @@ _Last updated: 2026-10-28T09:51:27.109Z_
 | 0345 | [Reverse Vowels of a String](0345-reverse-vowels-of-a-string/README.md) | Easy | java | 3 ms | 46.2 MB |
 | 0392 | [Is Subsequence](0392-is-subsequence/README.md) | Easy | java | 2 ms | 43 MB |
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy | java | 4 ms | 43.3 MB |
-
