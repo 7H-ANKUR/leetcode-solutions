@@ -1,9 +1,9 @@
 {
-  "totalSolved": 25,
-  "easySolved": 20,
+  "totalSolved": 26,
+  "easySolved": 21,
   "mediumSolved": 5,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-27T11:12:05.539Z",
+  "lastUpdated": "2026-10-28T09:46:47.003Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -54,6 +54,16 @@
       "memory": null,
       "path": "1704-determine-if-string-halves-are-alike/solution.java",
       "solvedAt": "2026-10-20T08:33:55.551Z"
+    },
+    "1732": {
+      "slug": "find-the-highest-altitude",
+      "title": "Find the Highest Altitude",
+      "difficulty": "Easy",
+      "language": "java",
+      "runtime": null,
+      "memory": null,
+      "path": "1732-find-the-highest-altitude/solution.java",
+      "solvedAt": "2026-10-28T09:46:47.003Z"
     },
     "1768": {
       "slug": "merge-strings-alternately",

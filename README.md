@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **25 solved** — 20 Easy, 5 Medium, 0 Hard.
+Auto-synced from LeetCode. **26 solved** — 21 Easy, 5 Medium, 0 Hard.
 
-_Last updated: 2026-10-27T11:12:05.540Z_
+_Last updated: 2026-10-28T09:46:47.003Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
@@ -27,6 +27,7 @@ _Last updated: 2026-10-27T11:12:05.540Z_
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](1456-maximum-number-of-vowels-in-a-substring-of-given-length/README.md) | Medium | java | 12 ms | 46 MB |
 | 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/README.md) | Easy | java | 0 ms | 44 MB |
 | 1704 | [Determine if String Halves Are Alike](1704-determine-if-string-halves-are-alike/README.md) | Easy | java | — | — |
+| 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/README.md) | Easy | java | — | — |
 | 1768 | [Merge Strings Alternately](1768-merge-strings-alternately/README.md) | Easy | java | 4 ms | 43.3 MB |
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/README.md) | Easy | java | 0 ms | 42.7 MB |
 | 1876 | [Substrings of Size Three with Distinct Characters](1876-substrings-of-size-three-with-distinct-characters/README.md) | Easy | java | 1 ms | 42.5 MB |
