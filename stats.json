@@ -3,7 +3,7 @@
   "easySolved": 21,
   "mediumSolved": 5,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-28T13:39:05.662Z",
+  "lastUpdated": "2026-10-28T13:40:04.983Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -78,10 +78,10 @@
       "title": "Find the Highest Altitude",
       "difficulty": "Easy",
       "language": "java",
-      "runtime": null,
-      "memory": "5 MB",
+      "runtime": "0 ms",
+      "memory": "42.4 MB",
       "path": "1732-find-the-highest-altitude/solution.java",
-      "solvedAt": "2026-10-28T13:39:05.662Z"
+      "solvedAt": "2026-10-28T13:40:04.983Z"
     },
     "1768": {
       "slug": "merge-strings-alternately",

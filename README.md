@@ -2,7 +2,7 @@
 
 Auto-synced from LeetCode. **26 solved** — 21 Easy, 5 Medium, 0 Hard.
 
-_Last updated: 2026-10-28T13:39:05.662Z_
+_Last updated: 2026-10-28T13:40:04.984Z_
 
 ## Array
 
@@ -34,7 +34,7 @@ _Last updated: 2026-10-28T13:39:05.662Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
-| 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/README.md) | Easy | java | — | 5 MB |
+| 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/README.md) | Easy | java | 0 ms | 42.4 MB |
 
 ## Sliding Window
 
