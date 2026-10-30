@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **26 solved** — 21 Easy, 5 Medium, 0 Hard.
+Auto-synced from LeetCode. **27 solved** — 22 Easy, 5 Medium, 0 Hard.
 
-_Last updated: 2026-10-28T13:40:04.984Z_
+_Last updated: 2026-10-30T13:10:42.711Z_
 
 ## Array
 
@@ -34,6 +34,7 @@ _Last updated: 2026-10-28T13:40:04.984Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
+| 0876 | [Middle of the Linked List](0876-middle-of-the-linked-list/README.md) | Easy | java | 0 ms | 42.5 MB |
 | 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/README.md) | Easy | java | 0 ms | 42.4 MB |
 
 ## Sliding Window
