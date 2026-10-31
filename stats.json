@@ -3,7 +3,7 @@
   "easySolved": 22,
   "mediumSolved": 6,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-31T10:18:32.409Z",
+  "lastUpdated": "2026-10-31T10:19:34.565Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -367,10 +367,14 @@
       "title": "Middle of the Linked List",
       "difficulty": "Easy",
       "language": "java",
-      "runtime": "0 ms",
-      "memory": "42.5 MB",
+      "runtime": null,
+      "memory": "5 MB",
       "path": "0876-middle-of-the-linked-list/solution.java",
-      "solvedAt": "2026-10-30T13:10:42.710Z"
+      "solvedAt": "2026-10-31T10:19:34.565Z",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ]
     },
     "0238": {
       "slug": "product-of-array-except-self",

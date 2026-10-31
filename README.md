@@ -2,7 +2,7 @@
 
 Auto-synced from LeetCode. **28 solved** — 22 Easy, 6 Medium, 0 Hard.
 
-_Last updated: 2026-10-31T10:18:32.409Z_
+_Last updated: 2026-10-31T10:19:34.566Z_
 
 ## Array
 
@@ -25,6 +25,12 @@ _Last updated: 2026-10-31T10:18:32.409Z_
 | 0387 | [First Unique Character in a String](0387-first-unique-character-in-a-string/README.md) | Easy | java | 6 ms | 46.8 MB |
 | 1832 | [Check if the Sentence Is Pangram](1832-check-if-the-sentence-is-pangram/README.md) | Easy | java | 0 ms | 42.7 MB |
 
+## Linked List
+
+| # | Title | Difficulty | Language | Runtime | Memory |
+|---|-------|------------|----------|---------|--------|
+| 0876 | [Middle of the Linked List](0876-middle-of-the-linked-list/README.md) | Easy | java | — | 5 MB |
+
 ## Math
 
 | # | Title | Difficulty | Language | Runtime | Memory |
@@ -35,7 +41,6 @@ _Last updated: 2026-10-31T10:18:32.409Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
-| 0876 | [Middle of the Linked List](0876-middle-of-the-linked-list/README.md) | Easy | java | 0 ms | 42.5 MB |
 | 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/README.md) | Easy | java | 0 ms | 42.4 MB |
 
 ## Sliding Window
