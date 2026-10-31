@@ -1,9 +1,9 @@
 {
-  "totalSolved": 27,
+  "totalSolved": 28,
   "easySolved": 22,
-  "mediumSolved": 5,
+  "mediumSolved": 6,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-30T13:10:42.711Z",
+  "lastUpdated": "2026-10-31T10:00:13.722Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -371,6 +371,16 @@
       "memory": "42.5 MB",
       "path": "0876-middle-of-the-linked-list/solution.java",
       "solvedAt": "2026-10-30T13:10:42.710Z"
+    },
+    "0238": {
+      "slug": "product-of-array-except-self",
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "language": "java",
+      "runtime": "0 ms",
+      "memory": "5 MB",
+      "path": "0238-product-of-array-except-self/solution.java",
+      "solvedAt": "2026-10-31T10:00:13.722Z"
     }
   }
 }
