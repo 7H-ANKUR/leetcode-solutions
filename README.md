@@ -2,7 +2,7 @@
 
 Auto-synced from LeetCode. **28 solved** — 22 Easy, 6 Medium, 0 Hard.
 
-_Last updated: 2026-10-31T10:19:34.566Z_
+_Last updated: 2026-10-31T10:20:46.902Z_
 
 ## Array
 
@@ -14,6 +14,7 @@ _Last updated: 2026-10-31T10:19:34.566Z_
 | 0303 | [Range Sum Query - Immutable](0303-range-sum-query-immutable/README.md) | Easy | java | 8 ms | 47.5 MB |
 | 0500 | [Keyboard Row](0500-keyboard-row/README.md) | Easy | java | 1 ms | 42.2 MB |
 | 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/README.md) | Easy | java | 0 ms | 44 MB |
+| 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/README.md) | Easy | java | 0 ms | 42.7 MB |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/README.md) | Easy | java | 1 ms | 45.6 MB |
 
 ## Hash Table
@@ -36,12 +37,6 @@ _Last updated: 2026-10-31T10:19:34.566Z_
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
 | 0415 | [Add Strings](0415-add-strings/README.md) | Easy | java | 2 ms | 43.4 MB |
-
-## Misc
-
-| # | Title | Difficulty | Language | Runtime | Memory |
-|---|-------|------------|----------|---------|--------|
-| 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/README.md) | Easy | java | 0 ms | 42.4 MB |
 
 ## Sliding Window
 
