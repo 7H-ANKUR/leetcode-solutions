@@ -2,7 +2,7 @@
 
 Auto-synced from LeetCode. **28 solved** — 22 Easy, 6 Medium, 0 Hard.
 
-_Last updated: 2026-10-31T10:00:13.722Z_
+_Last updated: 2026-10-31T10:18:32.409Z_
 
 ## Array
 
@@ -10,6 +10,7 @@ _Last updated: 2026-10-31T10:00:13.722Z_
 |---|-------|------------|----------|---------|--------|
 | 0001 | [Two Sum](0001-two-sum/README.md) | Easy | java | 45 ms | 46.7 MB |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | java | 1 ms | 43.8 MB |
+| 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | java | — | 5 MB |
 | 0303 | [Range Sum Query - Immutable](0303-range-sum-query-immutable/README.md) | Easy | java | 8 ms | 47.5 MB |
 | 0500 | [Keyboard Row](0500-keyboard-row/README.md) | Easy | java | 1 ms | 42.2 MB |
 | 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/README.md) | Easy | java | 0 ms | 44 MB |
@@ -34,7 +35,6 @@ _Last updated: 2026-10-31T10:00:13.722Z_
 
 | # | Title | Difficulty | Language | Runtime | Memory |
 |---|-------|------------|----------|---------|--------|
-| 0238 | [Product of Array Except Self](0238-product-of-array-except-self/README.md) | Medium | java | 0 ms | 5 MB |
 | 0876 | [Middle of the Linked List](0876-middle-of-the-linked-list/README.md) | Easy | java | 0 ms | 42.5 MB |
 | 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/README.md) | Easy | java | 0 ms | 42.4 MB |
 

@@ -2,7 +2,6 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** 0 ms
 **Memory:** 5 MB
 **Topics:** Array, Prefix Sum
 

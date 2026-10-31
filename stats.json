@@ -3,7 +3,7 @@
   "easySolved": 22,
   "mediumSolved": 6,
   "hardSolved": 0,
-  "lastUpdated": "2026-10-31T10:00:13.722Z",
+  "lastUpdated": "2026-10-31T10:18:32.409Z",
   "problems": {
     "1004": {
       "slug": "max-consecutive-ones-iii",
@@ -377,10 +377,14 @@
       "title": "Product of Array Except Self",
       "difficulty": "Medium",
       "language": "java",
-      "runtime": "0 ms",
+      "runtime": null,
       "memory": "5 MB",
       "path": "0238-product-of-array-except-self/solution.java",
-      "solvedAt": "2026-10-31T10:00:13.722Z"
+      "solvedAt": "2026-10-31T10:18:32.409Z",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ]
     }
   }
 }
